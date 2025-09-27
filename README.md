@@ -1,4 +1,4 @@
-## Hi there 👋
+##  👋
 
 <!--
 **mateus-ss/mateus-ss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+## Prazer!
+
+Engenheiro Eletrônico em formação pela Universidade de Brasília (UnB), com experiência prática em desenvolvimento de projetos tecnológicos e automação industrial. Atuei como Diretor de Projetos e Gerente de Projetos na EletronJun, liderando equipes e gerenciando projetos comerciais e internos. Possuo experiência em estágio na Indústrias Rossi Eletromecânica LTDA e na CAESB, onde desenvolvi soluções para automação e padronização de processos. Além disso, tenho participação em pesquisas acadêmicas na área de robótica móvel com redes neurais e publicações científicas em eventos nacionais e internacionais. Busco oportunidades para aplicar meus conhecimentos em engenharia eletrônica e inovação tecnológica, contribuindo para o desenvolvimento de soluções eficientes e de alto impacto.
+
+
