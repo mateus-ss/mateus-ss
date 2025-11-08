@@ -5,7 +5,7 @@ Sou apaixonado por **inovação tecnológica**, integração entre hardware e so
 
 ---
 
-## 💼 Experiência
+## Experiência
 
 ### EletronJun (Empresa Júnior da UnB) — *Diretor e Gerente de Projetos (2022–2025)*
 - Liderança e gestão de projetos comerciais e internos.
