@@ -1,7 +1,7 @@
 # 👋 Olá! Eu sou **Mateus S.**
 
 **Engenheiro Eletrônico em formação pela Universidade de Brasília (UnB)**, com experiência prática em **desenvolvimento de sistemas eletrônicos**, **automação industrial** e **robótica móvel**.  
-Sou apaixonado por **inovação tecnológica**, integração entre hardware e software e pela aplicação de **inteligência computacional em sistemas embarcados**.
+Sou apaixonado por **inovação tecnológica**, integração entre hardware e software e pela aplicação de **Processamento de sinais**.
 
 ---
 
