@@ -15,6 +15,7 @@ Sou apaixonado por **inovação tecnológica**, integração entre hardware e so
 ### Indústrias Rossi Eletromecânica LTDA — *Estagiário de Engenharia Eletrônica (2024–2025)*
 - Prototipagem, montagem e testes de circuitos eletrônicos.
 - Análise de produção, qualidade e padronização de processos.
+- Desenvolvimento de sistemas de automação de processos. 
 - Documentação técnica de testes e validações.
 
 ### CAESB — *Estagiário em Automação e Visão Computacional (2024)*
@@ -25,11 +26,11 @@ Sou apaixonado por **inovação tecnológica**, integração entre hardware e so
 ---
 
 ## Áreas de Interesse
-- Eletrônica analógica e digital  
+- Processamento de sinais e instrumentação  
+- Eletrônica digital  
 - Automação industrial e sistemas embarcados  
 - Robótica móvel e controle inteligente  
 - Aplicações de IA e redes neurais em engenharia  
-- Processamento de sinais e instrumentação  
 
 ---
 
