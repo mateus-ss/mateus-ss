@@ -1,21 +1,42 @@
-##  👋
+# 👋 Olá! Eu sou **Mateus S.**
 
-<!--
-**mateus-ss/mateus-ss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Engenheiro Eletrônico em formação pela Universidade de Brasília (UnB)**, com experiência prática em **desenvolvimento de sistemas eletrônicos**, **automação industrial** e **robótica móvel**.  
+Sou apaixonado por **inovação tecnológica**, integração entre hardware e software e pela aplicação de **inteligência computacional em sistemas embarcados**.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-## Prazer!
+## 💼 Experiência
 
-Engenheiro Eletrônico em formação pela Universidade de Brasília (UnB), com experiência prática em desenvolvimento de projetos tecnológicos e automação industrial. Atuei como Diretor de Projetos e Gerente de Projetos na EletronJun, liderando equipes e gerenciando projetos comerciais e internos. Possuo experiência em estágio na Indústrias Rossi Eletromecânica LTDA e na CAESB, onde desenvolvi soluções para automação e padronização de processos. Além disso, tenho participação em pesquisas acadêmicas na área de robótica móvel com redes neurais e publicações científicas em eventos nacionais e internacionais. Busco oportunidades para aplicar meus conhecimentos em engenharia eletrônica e inovação tecnológica, contribuindo para o desenvolvimento de soluções eficientes e de alto impacto.
+### EletronJun (Empresa Júnior da UnB) — *Diretor e Gerente de Projetos (2022–2025)*
+- Liderança e gestão de projetos comerciais e internos.
+- Coordenação de equipes multidisciplinares e desenvolvimento de sistemas eletrônicos.
+- Planejamento de escopo, precificação e resolução de conflitos.
 
+### Indústrias Rossi Eletromecânica LTDA — *Estagiário de Engenharia Eletrônica (2024–2025)*
+- Prototipagem, montagem e testes de circuitos eletrônicos.
+- Análise de produção, qualidade e padronização de processos.
+- Documentação técnica de testes e validações.
+
+### CAESB — *Estagiário em Automação e Visão Computacional (2024)*
+- Desenvolvimento de sistema de visão computacional para automação da lavagem de filtros de tratamento de água.
+- Integração com CLPs e pesquisa aplicada em automação industrial.
+- Testes de bancada e análise de falhas em sistemas automatizados.
+
+---
+
+## Áreas de Interesse
+- Eletrônica analógica e digital  
+- Automação industrial e sistemas embarcados  
+- Robótica móvel e controle inteligente  
+- Aplicações de IA e redes neurais em engenharia  
+- Processamento de sinais e instrumentação  
+
+---
+
+## Habilidades Técnicas
+**Linguagens:** C, C++, Python, MATLAB, Scilab  
+**Ferramentas:** Cadence Virtuoso, Proteus, KiCad, Arduino, Raspberry Pi  
+**Soft Skills:** Gestão de projetos, liderança, comunicação técnica  
+
+---
 
