@@ -1,43 +1,42 @@
-# 👋 Olá! Eu sou **Mateus S.**
+# 👋 Hello! I’m **Mateus S.**
 
-**Engenheiro Eletrônico em formação pela Universidade de Brasília (UnB)**, com experiência prática em **desenvolvimento de sistemas eletrônicos**, **automação industrial** e **robótica móvel**.  
-Sou apaixonado por **inovação tecnológica**, integração entre hardware e software e pela aplicação de **Processamento de sinais**.
-
----
-
-## Experiência
-
-### EletronJun (Empresa Júnior da UnB) — *Diretor e Gerente de Projetos (2022–2025)*
-- Liderança e gestão de projetos comerciais e internos.
-- Coordenação de equipes multidisciplinares e desenvolvimento de sistemas eletrônicos.
-- Planejamento de escopo, precificação e resolução de conflitos.
-
-### Indústrias Rossi Eletromecânica LTDA — *Estagiário de Engenharia Eletrônica (2024–2025)*
-- Prototipagem, montagem e testes de circuitos eletrônicos.
-- Análise de produção, qualidade e padronização de processos.
-- Desenvolvimento de sistemas de automação de processos. 
-- Documentação técnica de testes e validações.
-
-### CAESB — *Estagiário em Automação e Visão Computacional (2024)*
-- Desenvolvimento de sistema de visão computacional para automação da lavagem de filtros de tratamento de água.
-- Integração com CLPs e pesquisa aplicada em automação industrial.
-- Testes de bancada e análise de falhas em sistemas automatizados.
+**Electronic Engineering student at the University of Brasília (UnB)**, with hands-on experience in **electronic system development**, **industrial automation**, and **mobile robotics**.  
+I am passionate about **technological innovation**, hardware–software integration, and **signal processing** applications.
 
 ---
 
-## Áreas de Interesse
-- Processamento de sinais e instrumentação  
-- Eletrônica digital  
-- Automação industrial e sistemas embarcados  
-- Robótica móvel e controle inteligente  
-- Aplicações de IA e redes neurais em engenharia  
+## Experience
+
+### **EletronJun (UnB Junior Enterprise) — *Director and Project Manager (2022–2025)***
+- Led and managed commercial and internal projects.
+- Coordinated multidisciplinary teams and developed electronic systems.
+- Scope planning, pricing, and conflict resolution.
+
+### **Indústrias Rossi Eletromecânica LTDA — *Electronic Engineering Intern (2024–2025)***
+- Prototyping, assembling, and testing electronic circuits.
+- Production analysis, quality control, and process standardization.
+- Development of process automation systems.
+- Technical documentation of tests and validations.
+
+### **CAESB — *Automation and Computer Vision Intern (2024)***
+- Developed a computer-vision system for automating filter washing in water treatment.
+- Integration with PLCs and applied research in industrial automation.
+- Bench testing and failure analysis in automated systems.
 
 ---
 
-## Habilidades Técnicas
-**Linguagens:** C, C++, Python, MATLAB, Scilab  
-**Ferramentas:** Cadence Virtuoso, Proteus, KiCad, Arduino, Raspberry Pi  
-**Soft Skills:** Gestão de projetos, liderança, comunicação técnica  
+## Areas of Interest
+- Signal processing and instrumentation  
+- Digital electronics  
+- Industrial automation and embedded systems  
+- Mobile robotics and intelligent control  
+- AI and neural network applications in engineering  
 
 ---
 
+## Technical Skills
+**Languages:** C, C++, Python, MATLAB, Scilab  
+**Tools:** Cadence Virtuoso, Proteus, KiCad, Arduino, Raspberry Pi  
+**Soft Skills:** Project management, leadership, technical communication  
+
+---
