@@ -7,7 +7,7 @@ I am passionate about **technological innovation**, hardware–software integrat
 
 ## Experience
 
-### **EletronJun (UnB Junior Enterprise) — *Director and Project Manager (2022–2025)***
+### **EletronJun (Junior Enterprise of the University of Brasília - UnB) — *Chief Project Officer - CPO (2022–2025)***
 - Led and managed commercial and internal projects.
 - Coordinated multidisciplinary teams and developed electronic systems.
 - Scope planning, pricing, and conflict resolution.
